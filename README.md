@@ -1,6 +1,6 @@
-# 🌍 Country Conquest Game – Java Strategy Simulation
+# Country-Conquest-Game-Advanced-Programming-Project-5
 
-This project is a strategic, real-time **country conquest game**, inspired by *State.io – Conquer the World*. The game is implemented in Java and supports  **offline multiplayer** gameplay using random world maps.
+This project is a strategic, real-time **country conquest game**, inspired by *State.io - Conquer the World*. The game is implemented in Java and supports  **offline multiplayer** gameplay using random world maps.
 
 The main goal is to **conquer all enemy territories** and become the last remaining state. Players start with one country and expand by strategically sending units to neighboring territories.
 
